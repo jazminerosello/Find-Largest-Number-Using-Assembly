@@ -10,7 +10,7 @@ a program that finds the largest among three numbers. Created a memory variable
 largestNum to store the value of the largest number and largestInput to store the letter of
 the input name of the largest number.
 
-## To run:
+## To run: (with the use of GDB)
 
 file a.out
 
